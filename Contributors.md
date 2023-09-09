@@ -1,4 +1,5 @@
 # Contributors
+- [Ryudai Takai](https://github.com/ryudaitakai)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -51,6 +52,7 @@ KOR EU WEI
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Ravi-Kumar] (https://github.com/DevGyaani)
+  [Elijah Venisse Tabalba](https://github.com/ElijahVenisse)
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [SeungYong Kim](https://github.com/astrataraxia)
 - [Meynard Velaso](https://github.com/MVelasco21)
@@ -98,6 +100,7 @@ KOR EU WEI
 - [Dileep K] (https://github.com/dileepk706)
 - [Anish Patel] (https://github.com/codeanish)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
+- [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
 Mac McHam
@@ -122,6 +125,7 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- KennethBranch-Kenneth
 - rustycl-rusty
 - finnbranch-jann
 - psuuc-mvgo
@@ -129,6 +133,7 @@ Mac McHam
 -psuuc-acbascos
 -psuuc-jbgarcia
 -michdborja-Mdeborja
+-psuhiquiana-richard
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
@@ -142,6 +147,7 @@ Mac McHam
 -psuuc-lilibagcal
 - [psuuc-jepllamas]
 -psuuc-rdtsongalla
+- psuuc-rjnbarrientos (https://github.com/psuuc-rjnbarrientos)
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
@@ -565,6 +571,7 @@ Mac McHam
 - [mgrTutka](https://github.com/mgrTutka)
 - [kurtisolo](https://github.com/kurtisolo)
 - [Fabi]
+- [Leynard Guinumtad]
 - Fabi
 - [Tigran-Agekyan] (https://github.com/TigranAgekyan)
 - [Niet](https://github.com/nietus)
@@ -730,6 +737,7 @@ Mac McHam
 - [Gabriel Moraes](https://github.com/gabrielm33)
 - [Ibrahim Imam] (https://github.com/khalboy)
 - [Farhan Aslam](https://github.com/farhanch67)
+-[JerkenKylee](https://github.com/JerkenKylee)
 - [Ubonisrael Akpanudoh](https://github.com/ubonisrael)
 - [Kiro Adel](https://github.com/Noobie7612)
 - [khunsai06](https://github.com/khunsai06)
@@ -995,6 +1003,7 @@ Mac McHam
 - [Eylon Saadon](https://github.com/EylonSaadon)
 - [Volodymyr Korostelov] (https://github.com/dtVlad)
 - [Praneeth]
+- [IsNoah]
 - [hemanth Rcahapalli]
 - [ReineW](https://github.com/reinew)
 - [Amos Mwongela](https://github.com/4ouR04)
